@@ -1,0 +1,38 @@
+.menu {
+	list-style: none;
+	z-index: 90;
+	top: 10px;
+	right: 30px;
+	position: absolute;
+	cursor: pointer;
+}
+
+
+
+
+.link {
+	font-family: cursive;
+	font-size: 25px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 10px;
+	padding-right: 10px;
+	float: left;
+    color: black;
+    transition-duration: 0.35s;
+    border-right: 1px solid #bbb;
+}
+
+h1{
+    
+    text-align: center;
+}
+
+.images{
+    width: 400px;
+    height: 300px;
+}
+
+.main{
+    margin-top: 85px;
+}
